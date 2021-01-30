@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, Strangers👋
 My github page is currently under construction. I am trying to organize and find all projects I have created in all languages I am proficient and familiar in.
 
 - 🌱 I’m currently learning how to use Julia and Matlab for Cognitive and Neural Modeling and how to use C++ for Computer Vision. 
