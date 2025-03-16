@@ -1,8 +1,1 @@
-### Hello, Friends👋
-My github page is currently under construction. I am trying to organize and find all projects I have created in all languages I am proficient and familiar in.
-
-- 🌱 I’m currently learning how to use Julia for Cognitive and Neural Modeling and how to use C++ for Computer Vision using the OpenCV toolkit. 
-- 📫 Connect with me on linkedin! https://linkedin.com/in/fatimapt/
-- View my codepen directly for HTML5: https://codepen.io/fatimaparada
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I used to have a pet squirrel and opossum. Now I have a cat named Fiji. I just love small animals including rats and mice.
+### Hello, World👋
